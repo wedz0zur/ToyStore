@@ -1,5 +1,4 @@
 Лендинг с адоптацией.
-https://wedz0zur.github.io/ToyStore/
 
 ![Снимок](https://github.com/user-attachments/assets/812ff8d5-176e-463a-b0d7-695130c16523)
 ![Снимок](https://github.com/user-attachments/assets/fa6ae9bc-2e6b-4dd5-a224-f40d689e7330)
